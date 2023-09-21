@@ -1,0 +1,11 @@
+[pylint]
+disable= 
+    R0902, # (too-many-instance-attributes)
+    C0301, # (line-too-long)
+    W0703, # (broad-except)
+    R0903, # (too-few-public-methods)
+    C0103, # (invalid-name)
+    W0613, # (unused-argument)
+    R1710, # (inconsistent-return-statements)
+    E0401, # (import-error)
+    R0913, # (too-many-arguments)
