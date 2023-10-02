@@ -2,7 +2,7 @@
 Module responsible for interacting with Azure Snapshots services and listing snapshots attributes, update snapshot tags and delete a specific snapshot.
 #
 
-## **Requirementos**
+## **Requirements**
 - [Python 3.10 or higher](https://www.python.org/downloads/)
 #
 
