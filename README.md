@@ -4,6 +4,7 @@ Module responsible for interacting with Azure Snapshots services and listing sna
 
 ## **Requirements**
 - [Python 3.10 or higher](https://www.python.org/downloads/)
+- [Poetry](https://python-poetry.org/docs/)
 #
 
 ## **Installing Dependencies**
